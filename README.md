@@ -1,9 +1,14 @@
-# api documentation for  [parallelshell (v2.0.0)](https://github.com/keithamus/parallelshell)  [![npm package](https://img.shields.io/npm/v/npmdoc-parallelshell.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parallelshell) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parallelshell.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parallelshell)
+# npmdoc-parallelshell
+
+#### api documentation for  [parallelshell (v2.0.0)](https://github.com/keithamus/parallelshell)  [![npm package](https://img.shields.io/npm/v/npmdoc-parallelshell.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parallelshell) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parallelshell.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parallelshell)
+
 #### Invoke multiple commands, running in parallel
 
-[![NPM](https://nodei.co/npm/parallelshell.png?downloads=true)](https://www.npmjs.com/package/parallelshell)
+[![NPM](https://nodei.co/npm/parallelshell.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/parallelshell)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-parallelshell/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-parallelshell_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-parallelshell/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-parallelshell/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-parallelshell/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-parallelshell/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-parallelshell/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-parallelshell/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Keith Cirkel",
-        "email": "npm@keithcirkel.co.uk",
         "url": "http://keithcirkel.co.uk/"
     },
     "bin": {
@@ -50,17 +54,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "keithamus",
-            "email": "npm@keithcirkel.co.uk"
+            "name": "keithamus"
         },
         {
-            "name": "paulpflug",
-            "email": "paulpflugradt@googlemail.com"
+            "name": "paulpflug"
         }
     ],
     "name": "parallelshell",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/keithamus/parallelshell.git"
@@ -71,16 +72,6 @@
     "version": "2.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module parallelshell](#apidoc.module.parallelshell)
-
-
-
-# <a name="apidoc.module.parallelshell"></a>[module parallelshell](#apidoc.module.parallelshell)
 
 
 
