@@ -1,6 +1,6 @@
 # npmdoc-parallelshell
 
-#### api documentation for  [parallelshell (v2.0.0)](https://github.com/keithamus/parallelshell)  [![npm package](https://img.shields.io/npm/v/npmdoc-parallelshell.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parallelshell) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parallelshell.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parallelshell)
+#### basic api documentation for  [parallelshell (v2.0.0)](https://github.com/keithamus/parallelshell)  [![npm package](https://img.shields.io/npm/v/npmdoc-parallelshell.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parallelshell) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parallelshell.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parallelshell)
 
 #### Invoke multiple commands, running in parallel
 
